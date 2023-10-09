@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/banking_core_service
-    username: postgres
-    password: postgres
+    username: root
+    password: My@mysql123
   jpa:
     hibernate:
       ddl-auto: none
