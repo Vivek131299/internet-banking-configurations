@@ -22,7 +22,7 @@ info:
 app:
   config:
     keycloak:
-      server-url: http://localhost:8080/
+      server-url: http://localhost:8080
       realm: javatodev-internet-banking
       clientId: internet-banking-api-client
       client-secret: 69e21a34-6cfc-4efd-be0a-7411c193b82a
